@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculopago", "Calculopago\Calculopago.csproj", "{AF0ED1B6-9EEF-4856-8C7E-A1CE92073908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF0ED1B6-9EEF-4856-8C7E-A1CE92073908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0ED1B6-9EEF-4856-8C7E-A1CE92073908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0ED1B6-9EEF-4856-8C7E-A1CE92073908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0ED1B6-9EEF-4856-8C7E-A1CE92073908}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1460B7E4-5F6E-4B84-8814-C609838D325D}
+	EndGlobalSection
+EndGlobal
