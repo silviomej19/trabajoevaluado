@@ -1,0 +1,13 @@
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\SueldoEmpleado\bin\Debug\SueldoEmpleado.exe.config
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\SueldoEmpleado\bin\Debug\SueldoEmpleado.exe
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\SueldoEmpleado\bin\Debug\SueldoEmpleado.pdb
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\SueldoEmpleado\obj\Debug\SueldoEmpleado.csproj.AssemblyReference.cache
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\SueldoEmpleado\obj\Debug\SueldoEmpleado.Form1.resources
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\SueldoEmpleado\obj\Debug\SueldoEmpleado.Properties.Resources.resources
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\SueldoEmpleado\obj\Debug\SueldoEmpleado.csproj.GenerateResource.cache
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\SueldoEmpleado\obj\Debug\SueldoEmpleado.csproj.CoreCompileInputs.cache
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\SueldoEmpleado\obj\Debug\SueldoEmpleado.exe
+C:\Users\Predator\C#Proyects\PROYECTSMetodologiaYProgramaciónEstructurada\Semana#12\SueldoEmpleado\obj\Debug\SueldoEmpleado.pdb
+C:\Users\johal\Downloads\SueldoEmpleado\SueldoEmpleado\obj\Debug\SueldoEmpleado.csproj.AssemblyReference.cache
+C:\Users\johal\Downloads\SueldoEmpleado\SueldoEmpleado\obj\Debug\SueldoEmpleado.exe
+C:\Users\johal\Downloads\SueldoEmpleado\SueldoEmpleado\obj\Debug\SueldoEmpleado.pdb
