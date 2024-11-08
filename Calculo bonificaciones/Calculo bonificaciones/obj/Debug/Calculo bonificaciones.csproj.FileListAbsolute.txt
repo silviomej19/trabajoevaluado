@@ -1,0 +1,10 @@
+C:\Users\johal\source\repos\Calculo bonificaciones\Calculo bonificaciones\bin\Debug\Calculo bonificaciones.exe.config
+C:\Users\johal\source\repos\Calculo bonificaciones\Calculo bonificaciones\bin\Debug\Calculo bonificaciones.exe
+C:\Users\johal\source\repos\Calculo bonificaciones\Calculo bonificaciones\bin\Debug\Calculo bonificaciones.pdb
+C:\Users\johal\source\repos\Calculo bonificaciones\Calculo bonificaciones\obj\Debug\Calculo bonificaciones.csproj.AssemblyReference.cache
+C:\Users\johal\source\repos\Calculo bonificaciones\Calculo bonificaciones\obj\Debug\Calculo_bonificaciones.Form1.resources
+C:\Users\johal\source\repos\Calculo bonificaciones\Calculo bonificaciones\obj\Debug\Calculo_bonificaciones.Properties.Resources.resources
+C:\Users\johal\source\repos\Calculo bonificaciones\Calculo bonificaciones\obj\Debug\Calculo bonificaciones.csproj.GenerateResource.cache
+C:\Users\johal\source\repos\Calculo bonificaciones\Calculo bonificaciones\obj\Debug\Calculo bonificaciones.csproj.CoreCompileInputs.cache
+C:\Users\johal\source\repos\Calculo bonificaciones\Calculo bonificaciones\obj\Debug\Calculo bonificaciones.exe
+C:\Users\johal\source\repos\Calculo bonificaciones\Calculo bonificaciones\obj\Debug\Calculo bonificaciones.pdb
