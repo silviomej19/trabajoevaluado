@@ -1,0 +1,10 @@
+C:\Users\Silvio Mejia\source\repos\EjercicioFinalEvaluado\EjercicioFinalEvaluado\bin\Debug\EjercicioFinalEvaluado.exe.config
+C:\Users\Silvio Mejia\source\repos\EjercicioFinalEvaluado\EjercicioFinalEvaluado\bin\Debug\EjercicioFinalEvaluado.exe
+C:\Users\Silvio Mejia\source\repos\EjercicioFinalEvaluado\EjercicioFinalEvaluado\bin\Debug\EjercicioFinalEvaluado.pdb
+C:\Users\Silvio Mejia\source\repos\EjercicioFinalEvaluado\EjercicioFinalEvaluado\obj\Debug\EjercicioFinalEvaluado.csproj.AssemblyReference.cache
+C:\Users\Silvio Mejia\source\repos\EjercicioFinalEvaluado\EjercicioFinalEvaluado\obj\Debug\EjercicioFinalEvaluado.Form1.resources
+C:\Users\Silvio Mejia\source\repos\EjercicioFinalEvaluado\EjercicioFinalEvaluado\obj\Debug\EjercicioFinalEvaluado.Properties.Resources.resources
+C:\Users\Silvio Mejia\source\repos\EjercicioFinalEvaluado\EjercicioFinalEvaluado\obj\Debug\EjercicioFinalEvaluado.csproj.GenerateResource.cache
+C:\Users\Silvio Mejia\source\repos\EjercicioFinalEvaluado\EjercicioFinalEvaluado\obj\Debug\EjercicioFinalEvaluado.csproj.CoreCompileInputs.cache
+C:\Users\Silvio Mejia\source\repos\EjercicioFinalEvaluado\EjercicioFinalEvaluado\obj\Debug\EjercicioFinalEvaluado.exe
+C:\Users\Silvio Mejia\source\repos\EjercicioFinalEvaluado\EjercicioFinalEvaluado\obj\Debug\EjercicioFinalEvaluado.pdb
