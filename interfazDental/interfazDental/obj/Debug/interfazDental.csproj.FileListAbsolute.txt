@@ -1,0 +1,13 @@
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\bin\Debug\interfazDental.exe.config
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\bin\Debug\interfazDental.exe
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\bin\Debug\interfazDental.pdb
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\obj\Debug\interfazDental.csproj.AssemblyReference.cache
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\obj\Debug\interfazDental.MenuP.resources
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\obj\Debug\interfazDental.MiCuenta.resources
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\obj\Debug\interfazDental.Properties.Resources.resources
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\obj\Debug\interfazDental.csproj.GenerateResource.cache
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\obj\Debug\interfazDental.csproj.CoreCompileInputs.cache
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\obj\Debug\interfazDental.exe
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\obj\Debug\interfazDental.pdb
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\obj\Debug\interfazDental.IniciarSesion.resources
+C:\Users\Silvio Mejia\source\repos\interfazDental\interfazDental\obj\Debug\interfazDental.RegistrarHistorialMedico.resources
