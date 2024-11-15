@@ -1,0 +1,10 @@
+C:\Users\johal\source\repos\Registros estudiantes2\Registros estudiantes2\bin\Debug\Registros estudiantes2.exe.config
+C:\Users\johal\source\repos\Registros estudiantes2\Registros estudiantes2\bin\Debug\Registros estudiantes2.exe
+C:\Users\johal\source\repos\Registros estudiantes2\Registros estudiantes2\bin\Debug\Registros estudiantes2.pdb
+C:\Users\johal\source\repos\Registros estudiantes2\Registros estudiantes2\obj\Debug\Registros estudiantes2.csproj.AssemblyReference.cache
+C:\Users\johal\source\repos\Registros estudiantes2\Registros estudiantes2\obj\Debug\Registros_estudiantes2.Form1.resources
+C:\Users\johal\source\repos\Registros estudiantes2\Registros estudiantes2\obj\Debug\Registros_estudiantes2.Properties.Resources.resources
+C:\Users\johal\source\repos\Registros estudiantes2\Registros estudiantes2\obj\Debug\Registros estudiantes2.csproj.GenerateResource.cache
+C:\Users\johal\source\repos\Registros estudiantes2\Registros estudiantes2\obj\Debug\Registros estudiantes2.csproj.CoreCompileInputs.cache
+C:\Users\johal\source\repos\Registros estudiantes2\Registros estudiantes2\obj\Debug\Registros estudiantes2.exe
+C:\Users\johal\source\repos\Registros estudiantes2\Registros estudiantes2\obj\Debug\Registros estudiantes2.pdb
